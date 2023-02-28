@@ -1,8 +1,5 @@
 # Tugas Kecil 2 IF2211 Strategi Algoritma
 ## Mencari Pasangan Titik Terdekat 3D dengan Algoritma Divide and Conquer
-<p align="center">
-    <img src=https://www.bing.com/images/search?view=detailV2&ccid=NXFVA0zv&id=843C4E572F4E5C9E92E4F2F33265F9C964F2AE2F&thid=OIP.NXFVA0zvVottU8-VmPHIvwHaH6&mediaurl=https%3a%2f%2fthumbs.dreamstime.com%2fz%2fvektor-der-koordinatenachse-d-67829314.jpg&exph=1390&expw=1300&q=vektor+x+y+z&simid=608017797342438311&FORM=IRPRST&ck=79CFD9B73220D4246DDE2915907C913A&selectedIndex=22&ajaxhist=0&ajaxserp=0](https://www.bing.com/images/search?view=detailV2&ccid=b8rZBjvt&id=75647303BEB07AA12D2C4669C1C63D4F916EC5CB&thid=OIP.b8rZBjvt5KH7z2eBKfhWBQHaH6&mediaurl=https%3a%2f%2fthumbs.dreamstime.com%2fz%2fdirection-x-y-z-axis-vector-image-isolated-white-67797398.jpg&exph=1390&expw=1300&q=vektor+x+y+z&simid=608054557970140480&FORM=IRPRST&ck=67E66F22DF54632A20FC879F51FD1CFA&selectedIndex=1&ajaxhist=0&ajaxserp=0)
-</p>
 
 ## Kelas K2
 ### Ilham Akbar (13521068)
