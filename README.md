@@ -7,7 +7,7 @@
 This is a project in order to fulfill the requirements of the study of Strategi Algoritma.
 
 ## Bahasa dan Algoritma
-Pada tugas kecil ini, digunakan suatu algoritma menggunakan Bahasa C++ dan dengan pendekatan brute force untuk mendapatkan solusi dari permainan kartu 24.
+Pada tugas kecil ini, digunakan suatu algoritma menggunakan Bahasa Python dan dengan pendekatan Algoritma Divide and Conquer untuk mendapatkan solusi dari Pasangan Titik Terdekat 3D
 
 ## Penjelasan Ringkas Program
 Mencari sepasang titik terdekat dengan Algoritma Divide and Conquer sudah dijelaskan di 
