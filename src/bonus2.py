@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import random
 import numpy as np
 import time
-import tucil2
+import src.tucil2 as tucil2
 
 
 def Rn():

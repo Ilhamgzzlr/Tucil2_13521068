@@ -1,4 +1,4 @@
-import tucil2 
+import src.tucil2 as tucil2 
 import bonus2
 
 def main():
